@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Caneta BIC AZUL",
-      "price": 1.5
+      "price": "2.1"
     },
     {
       "id": 2,
@@ -12,8 +12,8 @@
     },
     {
       "id": 3,
-      "name": "Samsung Galaxy S12+",
-      "price": 5999.99
+      "name": "Samsung Galaxy S12++",
+      "price": "6100.99"
     }
   ]
 }

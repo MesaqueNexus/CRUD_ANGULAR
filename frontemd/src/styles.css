@@ -12,7 +12,13 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
     vertical-align: middle;
 }
 
-.btnSaveBlue {
+.btnBlue {
     color: #fff;
     background-color: #3f51b5;
+}
+
+.navFix {
+    position: fixed;
+    top: 0;
+    left: 0;
 }
